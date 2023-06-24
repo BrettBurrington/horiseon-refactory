@@ -85,7 +85,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* consolidated all benifit to one for each
+ */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
